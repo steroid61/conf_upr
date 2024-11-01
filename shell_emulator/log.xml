@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<log>
+    <entry>
+        <user>user</user>
+        <command>cd привет/документы</command>
+        <timestamp>2024-10-11T18:17:59.330066</timestamp>
+    </entry>
+    <entry>
+        <user>user</user>
+        <command>cd hello/documents</command>
+        <timestamp>2024-10-11T18:18:20.760513</timestamp>
+    </entry>
+    <entry>
+        <user>user</user>
+        <command>date</command>
+        <timestamp>2024-10-11T18:18:27.407260</timestamp>
+    </entry>
+    <entry>
+        <user>user</user>
+        <command>date</command>
+        <timestamp>2024-10-11T18:18:33.687902</timestamp>
+    </entry>
+</log>

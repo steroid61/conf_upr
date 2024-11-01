@@ -1,0 +1,6 @@
+<config>
+    <username>user</username>
+    <vfs_path>/Users/timofey/Desktop/конф_упр/shell_emulator/virtual_filesystem.tar</vfs_path>
+    <log_path>/Users/timofey/Desktop/конф_упр/shell_emulator/log.xml</log_path>
+    <startup_script>/Users/timofey/Desktop/конф_упр/shell_emulator/startup_script.sh</startup_script>
+</config>
