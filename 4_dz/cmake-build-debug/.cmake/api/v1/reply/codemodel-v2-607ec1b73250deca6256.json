@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "assembler",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ass_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ass_lib-Debug-e4ad9c99d8b7838bae6d.json",
+					"name" : "ass_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "assembler::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-assembler-Debug-70c18c1dd39aea111d8a.json",
+					"name" : "assembler",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "inter_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-inter_lib-Debug-3707afa0f13d12da98be.json",
+					"name" : "inter_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "interpreter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interpreter-Debug-e15fc540b3bd2d2a2001.json",
+					"name" : "interpreter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-Debug-6927e50537d643c686dd.json",
+					"name" : "tests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/timofey/Desktop/\u043a\u043e\u043d\u0444_\u0443\u043f\u0440/4_dz/cmake-build-debug",
+		"source" : "/Users/timofey/Desktop/\u043a\u043e\u043d\u0444_\u0443\u043f\u0440/4_dz"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

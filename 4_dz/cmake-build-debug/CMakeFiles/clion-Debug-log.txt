@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/timofey/Desktop/конф_упр/4_dz -B /Users/timofey/Desktop/конф_упр/4_dz/cmake-build-debug
+-- Found GTest: /opt/homebrew/lib/cmake/GTest/GTestConfig.cmake (found version "1.15.2")
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/timofey/Desktop/конф_упр/4_dz/cmake-build-debug

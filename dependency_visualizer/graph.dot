@@ -1,0 +1,15 @@
+digraph G {
+  rankdir=LR;
+  node [shape=box, style=filled, color="lightblue"];
+  edge [color="gray"];
+  "9611e69d179d147cc77e30f10bd8f95b55e20264" [label="9611e69\ncoder2 <coder2@example.com>\n Files: test_main.txt"];
+  "9611e69d179d147cc77e30f10bd8f95b55e20264" -> "5be1e7ee90fbefd3b34ae852a0f7cdb813eb19a3";
+  "5be1e7ee90fbefd3b34ae852a0f7cdb813eb19a3" [label="5be1e7e\ncoder2 <coder2@example.com>\n Files: test_main.txt"];
+  "5be1e7ee90fbefd3b34ae852a0f7cdb813eb19a3" -> "cdf7278e45bc80ac6659dc9ddc596b4061a4d996";
+  "cdf7278e45bc80ac6659dc9ddc596b4061a4d996" [label="cdf7278\ncoder2 <coder2@example.com>\n Files: test_main.txt"];
+  "cdf7278e45bc80ac6659dc9ddc596b4061a4d996" -> "f0508670c3ceda9a905c6f91e46253bece851da8";
+  "f0508670c3ceda9a905c6f91e46253bece851da8" [label="f050867\ncoder2 <coder2@example.com>\n Files: test/test1_main.txt, test_main.txt"];
+  "3b270e0f44b695a20923ddb1c6da0be6a4208986" [label="3b270e0\ncoder2 <coder2@example.com>\n Files: test_main.txt"];
+  "3b270e0f44b695a20923ddb1c6da0be6a4208986" -> "07dcef6093126057d932b5460a9b7c2b99a1354d";
+  "07dcef6093126057d932b5460a9b7c2b99a1354d" [label="07dcef6\nTimofey Shestopalov <timofey@MacBook-Pro-Timofey.local>\n Files: test_main.txt"];
+}

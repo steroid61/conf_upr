@@ -1,0 +1,8 @@
+/Users/timofey/Desktop/конф_упр/4_dz/cmake-build-debug/CMakeFiles/ass_lib.dir
+/Users/timofey/Desktop/конф_упр/4_dz/cmake-build-debug/CMakeFiles/inter_lib.dir
+/Users/timofey/Desktop/конф_упр/4_dz/cmake-build-debug/CMakeFiles/tests.dir
+/Users/timofey/Desktop/конф_упр/4_dz/cmake-build-debug/CMakeFiles/assembler.dir
+/Users/timofey/Desktop/конф_упр/4_dz/cmake-build-debug/CMakeFiles/interpreter.dir
+/Users/timofey/Desktop/конф_упр/4_dz/cmake-build-debug/CMakeFiles/test.dir
+/Users/timofey/Desktop/конф_упр/4_dz/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/timofey/Desktop/конф_упр/4_dz/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,168 @@
+- type: LOAD_CONSTANT
+  A: 195
+  B: 
+    value: 0
+  C: 
+    value: 167
+- type: MEMORY_WRITE
+  A: 53
+  B: 
+    value: 0
+  C: 
+    value: 0
+  D: 
+    value: 1
+- type: LOAD_CONSTANT
+  A: 195
+  B: 
+    value: 0
+  C: 
+    value: 200
+- type: LOAD_CONSTANT
+  A: 195
+  B: 
+    value: 1
+  C: 
+    value: 300
+- type: LOAD_CONSTANT
+  A: 195
+  B: 
+    value: 2
+  C: 
+    value: 400
+- type: LOAD_CONSTANT
+  A: 195
+  B: 
+    value: 3
+  C: 
+    value: 500
+- type: LOAD_CONSTANT
+  A: 195
+  B: 
+    value: 4
+  C: 
+    value: 600
+- type: LOAD_CONSTANT
+  A: 195
+  B: 
+    value: 5
+  C: 
+    value: 700
+- type: LOAD_CONSTANT
+  A: 195
+  B: 
+    value: 6
+  C: 
+    value: 800
+- type: OR
+  A: 74
+  B: 
+    value: 0
+  C: 
+    value: 0
+  D: 
+    value: 0
+- type: OR
+  A: 74
+  B: 
+    value: 1
+  C: 
+    value: 0
+  D: 
+    value: 1
+- type: OR
+  A: 74
+  B: 
+    value: 2
+  C: 
+    value: 0
+  D: 
+    value: 2
+- type: OR
+  A: 74
+  B: 
+    value: 3
+  C: 
+    value: 0
+  D: 
+    value: 3
+- type: OR
+  A: 74
+  B: 
+    value: 4
+  C: 
+    value: 0
+  D: 
+    value: 4
+- type: OR
+  A: 74
+  B: 
+    value: 5
+  C: 
+    value: 0
+  D: 
+    value: 5
+- type: OR
+  A: 74
+  B: 
+    value: 6
+  C: 
+    value: 0
+  D: 
+    value: 6
+- type: MEMORY_WRITE
+  A: 53
+  B: 
+    value: 0
+  C: 
+    value: 0
+  D: 
+    value: 7
+- type: MEMORY_WRITE
+  A: 53
+  B: 
+    value: 1
+  C: 
+    value: 1
+  D: 
+    value: 7
+- type: MEMORY_WRITE
+  A: 53
+  B: 
+    value: 2
+  C: 
+    value: 2
+  D: 
+    value: 7
+- type: MEMORY_WRITE
+  A: 53
+  B: 
+    value: 3
+  C: 
+    value: 3
+  D: 
+    value: 7
+- type: MEMORY_WRITE
+  A: 53
+  B: 
+    value: 4
+  C: 
+    value: 4
+  D: 
+    value: 7
+- type: MEMORY_WRITE
+  A: 53
+  B: 
+    value: 5
+  C: 
+    value: 5
+  D: 
+    value: 7
+- type: MEMORY_WRITE
+  A: 53
+  B: 
+    value: 6
+  C: 
+    value: 6
+  D: 
+    value: 7

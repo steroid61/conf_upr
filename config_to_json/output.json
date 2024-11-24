@@ -1,0 +1,22 @@
+[
+  {
+    "var": "serverports",
+    "value": [
+      443,
+      80,
+      8080
+    ]
+  },
+  {
+    "var": "defaultport",
+    "value": 443
+  },
+  {
+    "var": "sortedports",
+    "value": [
+      80,
+      443,
+      8080
+    ]
+  }
+]
