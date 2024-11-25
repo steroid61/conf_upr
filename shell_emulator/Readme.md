@@ -20,4 +20,5 @@ tar. Эмулятор должен работать в режиме CLI.
 Все функции эмулятора должны быть покрыты тестами, а для каждой из
 поддерживаемых команд необходимо написать 2 теста.
 
-![Снимок экрана 2024-11-25 в 11.39.27.png](..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2F0f%2F1ysfy_wn56q8ng942xvynty40000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_64IZQt%2F%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-25%20%D0%B2%2011.39.27.png)
+
+<img width="242" alt="Снимок экрана 2024-11-25 в 11 51 04" src="https://github.com/user-attachments/assets/8191ca39-c945-471a-b14f-3137bf9f59c1">
